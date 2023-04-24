@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc2a98d-58cf-4c27-80f1-ae980af31cf9" name="Changes" comment="">
+    <list default="true" id="ecc2a98d-58cf-4c27-80f1-ae980af31cf9" name="Changes" comment="did">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -339,7 +339,6 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/sjindal/Desktop/bftoriginal"
   }
 }]]></component>
@@ -1289,6 +1288,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682263702101</updated>
     </task>
+    <task id="LOCAL-00001" summary="did">
+      <created>1682371250931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682371250931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1301,6 +1308,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="did" />
+    <option name="LAST_COMMIT_MESSAGE" value="did" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
